@@ -16,4 +16,12 @@
             "Codotron\\Contact\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Codotron\\Contact\\ContactServiceProvider"
+            ]
+        }
+    }
 }
+
